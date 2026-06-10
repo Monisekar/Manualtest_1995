@@ -1,2 +1,8 @@
 I am master
+ HEAD
 paymenttest
+
+payment
+A
+googlepay
+ 04bfdcf (googlepay)
