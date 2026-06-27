@@ -1,6 +1,3 @@
 I am master
-payment
-Update new branch as payment
-A
-googlepay
+Comment
 
