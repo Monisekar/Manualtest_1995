@@ -1,4 +1,3 @@
 I am master
 payment
-A
-phonepe
+Update new branch as payment
